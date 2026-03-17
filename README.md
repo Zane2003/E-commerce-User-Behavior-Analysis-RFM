@@ -61,7 +61,7 @@ $$意向度 = 停留时长得分 \times 0.5 + 加载页面得分 \times 0.5$$
 
 * **计算公式：**
 
-$$\text{转化摩擦系数} = \frac{\text{累计加载页面数 (Total Pages Viewed)}}{\text{累计购买次数 (Total Transactions)}}+1$$
+$$\text{转化摩擦系数} = \frac{\text{累计加载页面数 (Total Pages Viewed)}}{\text{累计购买次数 (Total Transactions)+1}}$$
 
 
 * **实际业务意义：**
